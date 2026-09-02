@@ -1,0 +1,13 @@
+# Limita o upload no servidor antes que o aplicativo receba os bytes.
+[server]
+maxUploadSize = 25
+
+# Define uma paleta clara com contraste confortável e verde esmeralda
+# escuro para manter a legibilidade do texto branco nos botões principais.
+[theme]
+primaryColor = "#047857"
+backgroundColor = "#F9F9FB"
+secondaryBackgroundColor = "#F1F5F9"
+textColor = "#0F172A"
+borderColor = "#CBD5E1"
+linkColor = "#047857"
